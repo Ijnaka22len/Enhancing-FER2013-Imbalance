@@ -34,7 +34,6 @@ Throughout the project, we iteratively approached the challenge of class imbalan
     -  Perform one-hot encoding label, e.g. class 3 to [0,0,0,1,0,0,0]: Part 4 of `preProcess_augment_oversample()`
     - Oversampling minority classes : `preProcess_augment_oversample()`
     - Data augmentation(Figure 4): `preProcess_augment_oversample()`
-
 ![Data augmentation](figures/image-4.png)
 
 ## 4) Exploratory Data Analysis (EDA)

@@ -375,7 +375,7 @@ plotDatasetSamples(file_path=working_dir+'fer2013.csv',
 """
 
 datagen = ImageDataGenerator(horizontal_flip=True,
-                            #  vertical_flip=True,
+                             vertical_flip=True,
                             #  rotation_range=15,
                             #  width_shift_range=0.2,
                             #  height_shift_range=0.2,
@@ -402,7 +402,7 @@ sampleAugmentationPlotOnly(X_train=X_train)
 """
 
 model =create_CNN_model()
-# model.summary()
+model.summary()
 
 """# 6) Training
 
