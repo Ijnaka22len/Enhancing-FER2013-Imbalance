@@ -56,16 +56,16 @@ Throughout the project, we iteratively approached the challenge of class imbalan
 ## 6) Training, Validation and Metrics
 - **Training**: 
 
-![Training Logs](figures/image-6.png)!
+![Training Logs](figures/image-6.png)
 ![training performance(model history) ](figures/image-7.png)
 
 - **Metrics**: We weighed metrics such as accuracy, precision, recall, and F1-score to evaluate model performance.
 - **Confusion Matrix**: We analyzed the confusion matrix to identify model weaknesses and areas for improvement. The confusion matrix of the final model is as shown below.
 
-![Testing accuracy(85.44%) & Confusion Matrix](figures/image-8.png)
+![Testing accuracy(97.53%) & Confusion Matrix](figures/image-8.png)
 
 ## 7) Prediction
-- A 85.44% Testing accuracy was achieved using the augmented dataset on the CNN model as shown in Figure 8.
+- A 97.53% Testing accuracy was achieved using the augmented dataset on the CNN model as shown in Figure 8.
 
 
 - Sample plot of tested data: Figure 9.
@@ -75,7 +75,7 @@ Throughout the project, we iteratively approached the challenge of class imbalan
 
 1) We have explored the significance of facial expressions in communication, emphasizing their nonverbal nature and universal presence across cultures.
 2) We have mitigated class imbalance using oversampling and data augmentation techniques to enhance FER models accuracy.
-3) We have attained promising results with training accuracy at 90.06%, validation accuracy at 86.05%, and testing accuracy of 85.44% on our FER CNN model using the FER2013 dataset.
+3) We have attained promising results with training accuracy at 95%, validation accuracy at 97%, and testing accuracy of 97.53% on our FER CNN model using the FER2013 dataset.
 4) We have elaborated the use of FER models across industries like biometric authentication, mental health analysis, surveillance systems and customer sentiment analysis in retail and entertainment.
 
 **Hence improved accuracy such as the one in this project, provides  accurate FER predicting models for human-machine interactions and societal well-being.**
