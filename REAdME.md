@@ -75,7 +75,7 @@ Throughout the project, we iteratively approached the challenge of class imbalan
 
 1) We have explored the significance of facial expressions in communication, emphasizing their nonverbal nature and universal presence across cultures.
 2) We have mitigated class imbalance using oversampling and data augmentation techniques to enhance FER models accuracy.
-3) We have attained promising results with training accuracy at 90.06%, validation accuracy at 85.44%, and testing accuracy of 85.44% on our FER CNN model using the FER2013 dataset.
+3) We have attained promising results with training accuracy at 90.06%, validation accuracy at 86.05%, and testing accuracy of 85.44% on our FER CNN model using the FER2013 dataset.
 4) We have elaborated the use of FER models across industries like biometric authentication, mental health analysis, surveillance systems and customer sentiment analysis in retail and entertainment.
 
 **Hence improved accuracy such as the one in this project, provides  accurate FER predicting models for human-machine interactions and societal well-being.**
